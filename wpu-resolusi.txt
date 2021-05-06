@@ -4,4 +4,6 @@ WPU RESOLUSI
 - Membuat web sekolah SD Islam Luqmanulhakim
 
 <html>
-membuat web yang bagus dan responsiff
+membuat web yang user 
+- friendly
+- responsiff
