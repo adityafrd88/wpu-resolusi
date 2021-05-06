@@ -2,3 +2,6 @@ WPU RESOLUSI
 - Saya konsisen ingin membuat web yang bermanfaat
 - Saya ingin membuat web yang dinamis
 - Membuat web sekolah SD Islam Luqmanulhakim
+
+<html>
+membuat web yang bagus dan responsiff
